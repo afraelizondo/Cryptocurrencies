@@ -22,4 +22,4 @@ Since we decided to use clustering algorithm to parse data to help us make decis
 
 1. K-means algorithm; it groups the data into K clusters, where belonging to a cluster is based on some similarity or distance measure to a centroid. A centroid is a data point that is the arithmetic mean position of all the points on a cluster.
 
-2. Hierarchical clustering, also known as agglomerative clustering, works with groups (clusters) of data points. The algorithm starts by declaring each point with its own cluster, then merges the two most similar clusters until a declared stopping point has been reached.
+2. Hierarchical clustering, also known as agglomerative clustering, works with groups (clusters) of data points. The algorithm starts by declaring each point with its own cluster, then merges the two most similar clusters until a declared stopping point has been reached. 
